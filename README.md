@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div>
 
 # Projeto com Bootstrap.
@@ -22,7 +22,3 @@
 ✔️ Poppers
 </div>
 
-=======
-# ProjetoWebComBootstrap
-Pagina Web para desenvolvimento pessoal, feito para conhecer mais recursos do bootstrap4.
->>>>>>> d2dc55dde719aa0353c1eb7fd548b14edf352846
